@@ -2,6 +2,10 @@
 
 This repo is for analyzing the data collected from ibc benchmark in [Frost-Chain](https://github.com/AminRezaei0x443/frost-chain).
 
+## Report
+
+You can access the report [here](./report.pdf)
+
 ## Run
 
 1. Prepare
